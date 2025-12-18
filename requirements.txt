@@ -1,0 +1,6 @@
+numpy
+pandas 
+seaborn
+-e .
+
+# Now when i install teh requirements.txt then one by one all the packages going to install and when they encountered -e . then it symbolizes that this is corresponding to the setup.py nad directly install it 
